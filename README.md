@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ... Angular and Ionic
+- 🔭 I’m currently working on ... SAP UI5/ FIORI
 - 🌱 I’m currently learning ... Angular, Ionic, Sqlite, Typescript
-- 👯 I’m looking to collaborate on ... Angular projects.
+- 👯 I’m looking to collaborate on ... Angular, SAPUI5 projects
 
