@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ... SAP UI5/ FIORI, React
-- 🌱 I’m currently learning ... Angular, Ionic, Sqlite, Typescript
+- 🌱 I’m currently learning ... React
 - 👯 I’m looking to collaborate on ... Angular, SAPUI5 projects
 
