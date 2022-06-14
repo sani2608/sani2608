@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 
 
 
-- <a href="https://app.daily.dev/sani2608"><img src="https://api.daily.dev/devcards/d74d799296664c529a8db0f428b7f7e2.png?r=z90" width="400" alt="sunny sahani's Dev Card"/></a>
+- <a href="https://app.daily.dev/sani2608"><img src="https://github.com/sani2608/sani2608/blob/master/devcard.svg" width="400" alt="sunny sahani's Dev Card"/></a>
 
