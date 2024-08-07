@@ -11,8 +11,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Angular, Ionic, SAPUI5 projects
 
 
-
-
-
-- <a href="https://app.daily.dev/sani2608"><img src="https://github.com/sani2608/sani2608/blob/master/devcard.svg" width="400" alt="sunny sahani's Dev Card"/></a>
-
